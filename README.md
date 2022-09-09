@@ -1,2 +1,2 @@
-# home-flips-clustering
+see home-flips-results.pdf for presentation of data
  
